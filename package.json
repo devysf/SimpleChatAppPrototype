@@ -13,7 +13,7 @@
     "Mongoose",
     "Socket.io"
   ],
-  "author": "Sibeesh Venu",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
